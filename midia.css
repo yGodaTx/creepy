@@ -1,0 +1,11 @@
+@media (max-width:480px) {
+    .figure{
+        width: 400px;
+        border-radius: 10px;
+        
+    }
+    .posterfig{
+        width: 220px;
+        padding: 15px 
+    
+}
